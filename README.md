@@ -10,7 +10,7 @@ Training and testing policies should be executed inside the crowd_nav/ folder.
 
 1. Train a policy.
 ```
-python train.py --policy sarl
+python train.py
 ```
 2. Test policies with 500 test cases.
 ```
